@@ -48,7 +48,7 @@ The code performs the following tasks:
     - The code identifies the repository with the highest complexity score and prints its name.
 
 ## Results and Findings
-Based on the analysis of user repositories, the code identified the most complex repository as [most_complex_repository]. This repository exhibits a high complexity score, indicating potentially intricate code or extensive content.
+Based on the analysis of user repositories, the code identified the most complex repository as "most_complex_repository". This repository exhibits a high complexity score, indicating potentially intricate code or extensive content.
 
 ## Conclusion
 The Python code presented in this analysis project demonstrates a workflow for fetching user repositories from GitHub, extracting relevant information, and performing tokenization and metric calculations. The code provides valuable insights into the complexity of different repositories, aiding in further analysis or decision-making processes.
